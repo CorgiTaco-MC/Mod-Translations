@@ -1,0 +1,23 @@
+{
+  "enhancedcelestials2defaultlunarevents.notification.blood_moon.rise": "“血月”升起了…… 远处正传来亡灵的低语声……",
+  "enhancedcelestials2defaultlunarevents.notification.blood_moon.set": "“血月”落下了…… 亡灵们开始燃烧……",
+  "enhancedcelestials2defaultlunarevents.notification.blue_moon.rise": "“蓝月”升起了…… 你感到幸运！",
+  "enhancedcelestials2defaultlunarevents.notification.blue_moon.set": "“蓝月”落下了…… 你不再感到幸运……",
+  "enhancedcelestials2defaultlunarevents.notification.harvest_moon.rise": "“丰收之月”升起了…… 你的庄稼将获得丰收。",
+  "enhancedcelestials2defaultlunarevents.notification.harvest_moon.set": "“丰收之月”落下了……",
+  "enhancedcelestials2defaultlunarevents.notification.super_blood_moon.rise": "“超级血月”升起了…… 远处正传来亡灵的低语声……",
+  "enhancedcelestials2defaultlunarevents.notification.super_blood_moon.set": "“超级血月”落下了…… 亡灵们开始燃烧……",
+  "enhancedcelestials2defaultlunarevents.notification.super_blue_moon.rise": "“超级蓝月”升起了…… 你感到非常幸运！",
+  "enhancedcelestials2defaultlunarevents.notification.super_blue_moon.set": "“超级蓝月”落下了…… 你不再感到非常幸运……",
+  "enhancedcelestials2defaultlunarevents.notification.super_harvest_moon.rise": "“超级丰收之月”升起了…… 你的庄稼将有非凡的收获。",
+  "enhancedcelestials2defaultlunarevents.notification.super_harvest_moon.set": "“超级丰收之月”落下了……",
+  "enhancedcelestials2defaultlunarevents.notification.super_moon.rise": "“超级月亮”升起了…… 史莱姆开始在附近生成。",
+  "enhancedcelestials2defaultlunarevents.notification.super_moon.set": "“超级月亮”落下了……",
+  "lunar.event.enhancedcelestials2defaultlunarevents.blood_moon": "血月",
+  "lunar.event.enhancedcelestials2defaultlunarevents.blue_moon": "蓝月",
+  "lunar.event.enhancedcelestials2defaultlunarevents.harvest_moon": "丰收之月",
+  "lunar.event.enhancedcelestials2defaultlunarevents.super_blood_moon": "超级血月",
+  "lunar.event.enhancedcelestials2defaultlunarevents.super_blue_moon": "超级蓝月",
+  "lunar.event.enhancedcelestials2defaultlunarevents.super_harvest_moon": "超级丰收之月",
+  "lunar.event.enhancedcelestials2defaultlunarevents.super_moon": "超级月亮"
+}

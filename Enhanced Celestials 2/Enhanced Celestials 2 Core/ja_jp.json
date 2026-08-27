@@ -1,0 +1,9 @@
+{
+  "enhancedcelestials2core.commands.disabled": "このワールドにおけるEnhanced Celestialsの月イベントが無効化されました！",
+  "enhancedcelestials2core.commands.lunarevent_missing": "\"%s\" は有効な月イベントではありません！",
+  "enhancedcelestials2core.lunarforecast.days_left": "(あと %sd 後)",
+  "enhancedcelestials2core.lunarforecast.empty": "今後月イベントは発生しません",
+  "enhancedcelestials2core.lunarforecast.header": "現在の月予報:\n%s",
+  "enhancedcelestials2core.lunarforecast.recompute": "月予報が再計算されました！",
+  "enhancedcelestials2core.sleep.fail": "特別な月が昇っている。休むことはできない"
+}
