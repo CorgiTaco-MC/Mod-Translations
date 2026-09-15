@@ -1,0 +1,23 @@
+{
+  "enhancedcelestials2defaultlunarevents.notification.blood_moon.rise": "La \"Luna de Sangre\" sale... Se pueden escuchar sonidos lejanos de los no-muertos...",
+  "enhancedcelestials2defaultlunarevents.notification.blood_moon.set": "La \"Luna de Sangre\" se oculta... Los no-muertos comienzan a arder...",
+  "enhancedcelestials2defaultlunarevents.notification.blue_moon.rise": "La \"Luna Azul\" sale... ¡Te sientes con suerte!",
+  "enhancedcelestials2defaultlunarevents.notification.blue_moon.set": "La \"Luna Azul\" se oculta... Ya no te sientes con suerte...",
+  "enhancedcelestials2defaultlunarevents.notification.harvest_moon.rise": "La \"Luna de Cosecha\" sale... Tus cultivos ofrecen una mejor cosecha.",
+  "enhancedcelestials2defaultlunarevents.notification.harvest_moon.set": "La \"Luna de Cosecha\" se oculta...",
+  "enhancedcelestials2defaultlunarevents.notification.super_blood_moon.rise": "La \"Super Luna de Sangre\" sale... Se pueden escuchar sonidos lejanos de los no-muertos...",
+  "enhancedcelestials2defaultlunarevents.notification.super_blood_moon.set": "La \"Super Luna de Sangre\" se oculta... Los no-muertos comienzan a arder...",
+  "enhancedcelestials2defaultlunarevents.notification.super_blue_moon.rise": "La \"Super Luna Azul\" sale... ¡Te sientes con mucha suerte!",
+  "enhancedcelestials2defaultlunarevents.notification.super_blue_moon.set": "La \"Super Luna Azul\" se oculta... Ya no te sientes con mucha suerte...",
+  "enhancedcelestials2defaultlunarevents.notification.super_harvest_moon.rise": "La \"Super Luna de Cosecha\" sale... Tus cultivos ofrecen una cosecha excepcional.",
+  "enhancedcelestials2defaultlunarevents.notification.super_harvest_moon.set": "La \"Super Luna de Cosecha\" se oculta...",
+  "enhancedcelestials2defaultlunarevents.notification.super_moon.rise": "La \"Super Luna\" sale... Los slimes comienzan a aparecer cerca.",
+  "enhancedcelestials2defaultlunarevents.notification.super_moon.set": "La \"Super Luna\" se oculta...",
+  "lunar.event.enhancedcelestials2defaultlunarevents.blood_moon": "Luna de Sangre",
+  "lunar.event.enhancedcelestials2defaultlunarevents.blue_moon": "Luna Azul",
+  "lunar.event.enhancedcelestials2defaultlunarevents.harvest_moon": "Luna de Cosecha",
+  "lunar.event.enhancedcelestials2defaultlunarevents.super_blood_moon": "Super Luna de Sangre",
+  "lunar.event.enhancedcelestials2defaultlunarevents.super_blue_moon": "Super Luna Azul",
+  "lunar.event.enhancedcelestials2defaultlunarevents.super_harvest_moon": "Super Luna de Cosecha",
+  "lunar.event.enhancedcelestials2defaultlunarevents.super_moon": "Super Luna"
+}
